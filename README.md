@@ -14,7 +14,7 @@
 5. After a few seconds, click stop on the red circle
 6. A flamegraph with mangled names appears like shown in the screenshot below:
 
-![image](https://github.com/inside/no-mangling-option/assets/107884/95169a9a-c05a-4bc0-865d-917c45b386b3)
+![image](https://github.com/inside/no-mangling-option/assets/107884/0233417f-875e-43f9-b7aa-546adb847ae5)
 
 # Expected Behavior
 
