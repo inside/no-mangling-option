@@ -20,4 +20,4 @@
 
 We should see object names like shown in the screenshot below which has been taken in dev mode:
 
-![image](https://github.com/inside/no-mangling-option/assets/107884/9b528de1-d615-498d-b2ca-20253b4a156e)
+![image](https://github.com/inside/no-mangling-option/assets/107884/ed372007-9a13-4327-8377-12b05f1efc2f)
